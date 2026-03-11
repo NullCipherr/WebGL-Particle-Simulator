@@ -35,6 +35,3 @@ npm run dev
 npm run build
 npm run preview
 ```
-
-## Deploy no Cloudflare Pages
-Consulte [docs/deploy-cloudflare-pages.md](./docs/deploy-cloudflare-pages.md).
