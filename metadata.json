@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Particle Engine",
+  "description": "A high-performance 2D particle simulator built with React and Canvas API, featuring glassmorphism UI and fluid physics.",
+  "requestFramePermissions": ["microphone"]
+}
